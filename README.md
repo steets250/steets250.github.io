@@ -8,7 +8,7 @@
 
 ## My Projects
 
-![ACM Logo](acm.jpg)
+![ACM Logo](acm.png)
 
 ### [ACM Membership Portal](https://members.acmucsd.com)
 - Correcting visual **CSS** and behavioral **Redux** bugs in existing **React** codebase.
