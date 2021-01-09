@@ -4,6 +4,11 @@
 
 #### Page Sections:
 [My Projects](#my-projects)
+
+[Day Zero](#day-zero)
+
+[UCSD](#ucsd-progress)
+
 [Contact Me](#contact-me)
 
 ## My Projects
@@ -23,6 +28,41 @@
 - Created user interface in **Xcode** and app logic using **Swift**. Utilized **CocoaPods** libraries.
 - Responded to user feedback and continually adapted the program to meet user requests.
 - Earned a 4.8 star rating and received *over 1.5k downloads*.
+
+`This is my new favorite app! I highly recommend to all students :)` - *griffin whales, 10/16/2017*
+
+## Day Zero
+
+The first day I started writing code, not really knowing what a `UIView` or `UILabel` was! I've come a long way since then.
+
+```
+//
+//  Created by Steven Steiner on 2/26/17.
+//  Copyright © 2017 steets250. All rights reserved.
+//
+```
+
+## UCSD Progress
+
+**2018 - 2019:**
+ - [x] Fall
+ - [x] Winter
+ - [x] Spring
+
+**2019 - 2020:**
+ - [x] Fall
+ - [x] Winter
+ - [x] Spring
+
+**2020 - 2021:**
+ - [x] Fall
+ - [ ] Winter
+ - [ ] Spring
+
+**2021 - 2022:**
+ - [ ] Fall
+ - [ ] Winter
+ - [ ] Spring
 
 ## Contact Me
 
