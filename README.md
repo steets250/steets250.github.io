@@ -8,7 +8,7 @@
 
 ## My Projects
 
-![ACM Logo](acm.png)
+![ACM Logo](acm.jpg)
 
 ### [ACM Membership Portal](https://members.acmucsd.com)
 - Correcting visual **CSS** and behavioral **Redux** bugs in existing **React** codebase.
@@ -16,7 +16,7 @@
 - Rewriting site functions to improve code cleanliness and readability.
 - Following an iterative process with team using **Agile** development strategies.
 
-![VHS Logo](vhs.jpg)
+![VHS Logo](vhs.png)
 
 ### [Venice High School App](https://apps.apple.com/us/app/venice-high/id1287371205)
 - Developed informational mobile app geared towards high school students, parents, and staff.
